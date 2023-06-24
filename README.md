@@ -1,4 +1,4 @@
-# ExpressMailAPI
+# expressjs-email-api-template
 
 A simple API used to send emails received from contact form to the both visitor and the actual recipient.
 
